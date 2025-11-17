@@ -16,44 +16,6 @@ My mission is to operate at the intersection of medicine, data science, and comp
 * 🧬 **Bioinformatics & Multi-omics:** Integrating genomic, proteomic, and transcriptomic data to identify novel biomarkers and complex disease signatures.
 * 🧪 **Chemoinformatics:** Applying machine learning and computational methods to accelerate drug discovery, predict molecular interactions, and design novel therapeutics.
 
----
----
-### 📚 Publications & Manuscripts
-
-<details>
-  <summary>Click to see my recent publications</summary>
-  
-  <br>
-  
-  * **Muili, A.O., Alare, K., Oluwapelumi Solagbade, et al. (2025).** Addressing the deficit in chronic traumatic encephalopathy research in Africa: A call for urgent attention. *Chinese Neurosurgical Journal*.
-  
-  * **Muili, A.O., Oluwapelumi Solagbade, Wambu, P.N., Waweru, J., et al. (2025).** Endovascular techniques in the management of Moyamoya disease: A comprehensive review. *Discover Medicine*.
-  
-  * **Solagbade, O. (2024).** Building Inclusive Communities: Enhancing Support and Awareness for Autism Spectrum Disorder in Nigeria. *Published by EOHealth*.
-  
-  * **(Under Review)** Robotic Interventions in Hydrocephalus Management: A Comprehensive Review. *Submitted to World Neurosurgery*.
-  
-  * **(Under Review)** The Genomic Gap in Neuro-Oncology: A Narrative Review of Brain Tumour Molecular Data from Africa. *Submitted to The Egyptian Journal of Neurology, Psychiatry and Neurosurgery*.
-
-</details>
-### 🏆 Awards & Honors
-
-<details>
-  <summary>Click to see a selection of my awards</summary>
-  
-  <br>
-  
-  * **Digital Health Transformation Lab Research Stipend** - University of Geneva, 2025
-  * **Wells Mountain Initiative (WMI) Merit-Based Scholarship** - Vermont, USA, 2024-2029
-  * **Jim Ovia Scholarship**, 2025
-  * **Lewis-Nguyen Scholarship**, Columbia University IYRC, 2025
-  * **Cajal Experimental Neuroscience Bootcamp Scholarship**, 2024
-  * **First Place, Nigeria Undergraduate Challenge Your Brain Quiz**, 2025
-  * **Second Runner-Up, IYNA-Alzheimer's Association International Ideathon**, 2025
-    
-  
-</details>
-
 ### 🛠️ My Tech & Science Stack
 
 My toolkit is built for processing, analyzing, and modeling high-dimensional biological data.
