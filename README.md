@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="YOUR-GIF-NAME.gif" width="600" />
+  <img src="brain-10813_512.gif" width="600" />
 </p>
 
 # 👋 Hi, I'm Oluwapelumi Solagbade
